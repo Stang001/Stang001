@@ -1,6 +1,6 @@
 # Welcome to
 
-We are a team of developers from Germany focused on creating game hacks and utilities. Our projects aim to provide players with powerful features, customization options, and unique ways to dominate the game. Whether you're looking for advanced cheats or ways to bypass restrictions, we've got you covered.
+Hee yai
 
 ## Stay Connected
 
