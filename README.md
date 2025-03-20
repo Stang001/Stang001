@@ -40,8 +40,6 @@ Follow us on our socials to stay updated on our latest developments :
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualstudiocode logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
