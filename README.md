@@ -11,7 +11,7 @@ Follow us on our socials to stay updated on our latest developments :
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stang001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
@@ -29,7 +29,7 @@ Follow us on our socials to stay updated on our latest developments :
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
 </div>
 
-###
+### 
 
 <div>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
