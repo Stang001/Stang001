@@ -36,6 +36,8 @@ Follow us on our socials to stay updated on our latest developments :
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualstudiocode logo"  />
@@ -45,6 +47,8 @@ Follow us on our socials to stay updated on our latest developments :
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
 ### 
