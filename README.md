@@ -16,6 +16,10 @@ Follow us on our socials to stay updated on our latest developments :
 <div align="left">
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kt logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
