@@ -16,6 +16,8 @@ Follow us on our socials to stay updated on our latest developments :
 <div align="left">
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="bash logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kt" height="40" alt="bash logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="go logo"  />
