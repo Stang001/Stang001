@@ -18,7 +18,7 @@ Follow us on our socials to stay updated on our latest developments :
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kt logo"  />
   <img width="12" />
@@ -39,6 +39,8 @@ Follow us on our socials to stay updated on our latest developments :
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualstudiocode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
 </div>
 
 ### 
