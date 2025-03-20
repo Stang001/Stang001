@@ -14,19 +14,25 @@ Follow us on our socials to stay updated on our latest developments :
 ### 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kt" height="40" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kt logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="nginx logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="c# logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="visualstudiocode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
 </div>
